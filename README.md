@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[cite_start]**NetTrace** is an automated network forensic analysis tool designed to conduct systematic and efficient examinations of Packet Capture (PCAP/PCAPNG) files[cite: 23]. [cite_start]It bridges the gap between raw packet analysis and formal forensic procedures by integrating automated threat detection with strict evidence integrity verification[cite: 24, 36].
+**NetTrace** is an automated network forensic analysis tool designed to conduct systematic and efficient examinations of Packet Capture (PCAP/PCAPNG) files[cite: 23]. [cite_start]It bridges the gap between raw packet analysis and formal forensic procedures by integrating automated threat detection with strict evidence integrity verification[cite: 24, 36].
 
 ## 🚀 Key Features
 * [cite_start]**Evidence Integrity:** Implements dual-stage (Ingress/Egress) hashing using SHA-256 and MD5 to mathematically prove non-destructive analysis[cite: 48, 431, 441].
